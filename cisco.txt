@@ -1,4 +1,0 @@
-cisco packet tracer
-Router
-Switch
-Server
